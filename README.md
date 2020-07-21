@@ -1,5 +1,4 @@
 # hello-world
-lets go
 
 hello friends
 
